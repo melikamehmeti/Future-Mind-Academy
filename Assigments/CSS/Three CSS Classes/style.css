@@ -1,0 +1,20 @@
+.light{
+    background-color: rgb(255, 0, 60);
+    color: rgb(255, 255, 255);
+}
+.dark{
+    background-color: rgb(255, 238, 0);
+    color: white;
+}
+.new{
+    background-color: rgb(3, 41, 54);
+    color: rgb(255, 255, 255);
+}
+.lightnew{
+    background-color: rgb(83, 83, 83);
+    color: white;
+}
+.darknew{
+    background-color: rgb(14, 153, 84);
+    color: rgb(31, 69, 47);
+}
